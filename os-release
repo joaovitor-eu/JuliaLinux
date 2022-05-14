@@ -1,0 +1,14 @@
+NAME="Julia"
+VERSION="1.8"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Julia"
+LOGO=distributor-logo
+VERSION_ID="1.8"
+HOME_URL="https://elementary.io/"
+DOCUMENTATION_URL="https://elementary.io/docs/learning-the-basics"
+SUPPORT_URL="https://elementary.io/support"
+BUG_REPORT_URL="https://github.com/elementary/triage/issues/new"
+PRIVACY_POLICY_URL="https://elementary.io/privacy-policy"
+VERSION_CODENAME=jolnir
+UBUNTU_CODENAME=focal
